@@ -1,3 +1,8 @@
+# Reference
+The code in this project is based on following sources:
+- [https://zeit.co/examples/markdown/](https://zeit.co/examples/markdown/)
+- [https://github.com/zeit/now-examples/tree/master/markdown](https://github.com/zeit/now-examples/tree/master/markdown)
+
 # Markdown
 
 Live Example: https://markdown-v2.now.sh
